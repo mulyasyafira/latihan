@@ -31,11 +31,15 @@
 
 ![Nasa](https://i.pinimg.com/736x/55/33/1c/55331c01f09db2117eaf4198d2439b29.jpg)
 
-
+```html
 <a href="https://www.youtube.com/">Youtube</a>
-
+```
+```js
 console.log("Hello, world!");
+```
+```sql
 SELECT *FROM users WHERE email = 'mulyasyafira1@gmail.com';
-
+```
+```shell
 git commit -m "first commit"
-
+```
