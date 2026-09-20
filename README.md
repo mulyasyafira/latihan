@@ -49,6 +49,6 @@ git commit -m "first commit"
 - neptunus
   
 | Planet | Diameter | Jumlah Satelit |
-|------------------------------------|
+|--------|----------|----------------|
 | Bumi   | 12.756   | 1              |
 | Mars   | 6.792    | 1              |
