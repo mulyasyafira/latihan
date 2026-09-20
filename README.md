@@ -21,10 +21,10 @@
         <td>67</td>
     </tr>
     
-<ol>
+<ul>
     <li>saturnus</li>
     <li>Uranus</li>
     <li>Neptunus</li>
-</ol>
+</ul>
 
 [Tata Surya](https://solarsystem.nasa.gov/)
