@@ -28,3 +28,5 @@
 </ul>
 
 [Tata Surya](https://solarsystem.nasa.gov/)
+
+![Bima sakti](https://example.com/images/milky-way-galaxy.jpg)
