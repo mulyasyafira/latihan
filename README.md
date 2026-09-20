@@ -29,5 +29,5 @@
 
 [Tata Surya](https://solarsystem.nasa.gov/)
 
-![Nasa](<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/85a14cbb-4f2d-43d0-a270-d48b72568ce5" />
+![Nasa](https://i.pinimg.com/736x/55/33/1c/55331c01f09db2117eaf4198d2439b29.jpg)
 
