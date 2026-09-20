@@ -29,4 +29,5 @@
 
 [Tata Surya](https://solarsystem.nasa.gov/)
 
-![Bima sakti](https://example.com/images/milky-way-galaxy.jpg)
+![Nasa](<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/85a14cbb-4f2d-43d0-a270-d48b72568ce5" />
+
